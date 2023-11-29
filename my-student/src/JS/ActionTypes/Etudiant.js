@@ -1,0 +1,4 @@
+export const GET_STUDENTS ="GET_STUDENTS";
+export const LOAD_STUDENTS ="LOAD_STUDENTS";
+export const FAIL_STUDENTS ="FAIL_STUDENTS";
+export const GET_STUDENT ="GET_STUDENT";
